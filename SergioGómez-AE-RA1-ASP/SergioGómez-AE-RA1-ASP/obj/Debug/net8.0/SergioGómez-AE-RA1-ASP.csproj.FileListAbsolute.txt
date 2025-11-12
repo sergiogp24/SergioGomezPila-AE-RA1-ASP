@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\bin\Debug\net8.0\SergioGómez-AE-RA1-ASP.exe
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\bin\Debug\net8.0\SergioGómez-AE-RA1-ASP.deps.json
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\bin\Debug\net8.0\SergioGómez-AE-RA1-ASP.runtimeconfig.json
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\bin\Debug\net8.0\SergioGómez-AE-RA1-ASP.dll
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\bin\Debug\net8.0\SergioGómez-AE-RA1-ASP.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.dll
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\refint\SergioGómez-AE-RA1-ASP.dll
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\SergioGómez-AE-RA1-ASP.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Desktop\ASP\SergioGómez-AE-RA1-ASP\SergioGómez-AE-RA1-ASP\obj\Debug\net8.0\ref\SergioGómez-AE-RA1-ASP.dll
